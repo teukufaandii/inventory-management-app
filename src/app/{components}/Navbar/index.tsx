@@ -6,10 +6,6 @@ import { Bell, Menu, Moon, Settings, Sun } from "lucide-react";
 import Link from "next/link";
 import React from "react";
 
-function handleClick() {
-  console.log("Button clicked");
-}
-
 const Navbar = () => {
   const dispatch = useAppDispatch();
   const isSidebarCollapsed = useAppSelector(

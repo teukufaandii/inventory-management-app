@@ -84,7 +84,7 @@ const Sidebar = () => {
             isSidebarCollapsed ? "hidden" : "block"
           } font-extrabold text-2xl`}
         >
-          ANDYYSTOCK
+          TECHSTOCK
         </h1>
 
         <button
